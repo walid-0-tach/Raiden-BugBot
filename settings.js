@@ -12,13 +12,13 @@ global.ytname = "YT: The_developer03"
 global.socialm = "GitHub: Byte-smith03"
 global.location = "Uganda, Kampala"
 
-global.ownernumber = '256709824720'  //creator number
+global.ownernumber = '2348146674897'  //creator number
 global.ownername = 'The Developer03' //owner name
 global.botname = 'RAIDEN BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'raiden\n\nContact: +256709824720'
+global.author = 'raiden\n\nContact: +2348146674897'
 
 //console view/theme
 global.themeemoji = '🪀'
